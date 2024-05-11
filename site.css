@@ -1,0 +1,26 @@
+.highlighted {
+    background: red;
+}
+
+table {
+    width: 500px;
+    height: 500px;
+}
+
+table td {
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #ccc;
+}
+
+table tr {
+    height: 100px;
+}
+
+.wrap{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    max-width: 1200px;
+}
